@@ -11,7 +11,7 @@ Fazer a modelagem de um banco de dados relacional MySQL, para um aplicativo que 
 
 O código em SQL para a construção do banco é encontrado na pasta 'model'.
 
-![alt text](model/insta_db_model.svg)
+![alt text](model/insta_db_model.png)
 
 Este modelo suporta as principais funcionalidades de um sistema similar ao instagram, como:
 
