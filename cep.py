@@ -61,7 +61,7 @@ class CEP:
         """le arquivo com lista de CEPs a serem buscados.
            
         Args:
-            ceps_address (str, optional): Contém o endereco do arquivo com a lista de ceps. Defaults to "ceps.csv".
+            ceps_address (str, optional): Contém o endereco do arquivo com a lista de ceps. Defaults to "data/ceps.csv".
 
         Returns:
             list: lista de ceps
