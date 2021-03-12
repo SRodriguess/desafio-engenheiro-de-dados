@@ -22,6 +22,7 @@ Este modelo suporta as principais funcionalidades de um sistema similar ao insta
     * As postagens na linha do tempo podem compor apenas uma mídia(foto ou vídeo) ou várias. No modelo, as entidades 'publicacao' e 'container_publicacao'
     representam essa relação. A entidade 'publicacao' representa as unidades das postagens contendo suas informações particulares como usuários marcados, localização e foto/video. Já a entidade 'container_publicacao' contém uma descrição; uma lista de hashtags; e a lista de ids 'publicacao' que irão 
     compor o álbum. 
+* Publicar live em linha do tempo ou story
 * Curtir e comentar postagens de outros usuários
 * Comentar stories de outros usuários
 * Curtir comentários de postagens/stories
