@@ -16,7 +16,7 @@ O código em SQL para a construção do banco é encontrado na pasta 'model'.
 Este modelo suporta as principais funcionalidades de um sistema similar ao instagram, como:
 
 * Criar perfís de usuários através de um email único
-* Bloquear, restringir ou silenciar outros usuários
+* Bloquear, restringir ou silenciar outros usuário
 * Acompanhar(curtir) outros usuários e hashtags
 * Realizar postagens em story ou linha do tempo
     * As postagens na linha do tempo podem compor apenas uma mídia(foto ou vídeo) ou várias. No modelo, as entidades 'publicacao' e 'container_publicacao'
